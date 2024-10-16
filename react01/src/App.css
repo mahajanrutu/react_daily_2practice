@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  justify-content: center;
+  padding-top: 250px;
+}
+
+.form {
+  background-color: black;
+  color: hsl(34, 78%, 91%);
+  padding: 20px;
+  height: 80px;
+  width: 250px;
+  justify-content: center;
+  display: flex;
+  margin-left: 660px;
+  box-shadow: 10px 10px 10px 10px rgb(131, 131, 135);
+}
+
+.input {
+  text-align: center;
+  border: none;
+  border-bottom: 4px;
+}
