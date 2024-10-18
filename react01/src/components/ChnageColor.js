@@ -22,7 +22,8 @@ export default function ChnageColor() {
     <div>
       <h1 style={{ color: color }}>Rutuja</h1>
       <button onClick={changeColor}>Change Color</button>
-      <p style={{ color: "white" }}>Button Clicked: {clickcount} times</p>
+
+      <p style={{ color: "Pink" }}>Button Clicked: {clickcount}</p>
     </div>
   );
 }
